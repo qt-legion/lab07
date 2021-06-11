@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/qt-legion/lab07.svg?branch=main)](https://travis-ci.com/qt-legion/lab07>
+
+
 ## Laboratory work VII
 
 Данная лабораторная работа посвещена изучению систем управления пакетами на примере **Hunter**
